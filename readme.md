@@ -13,3 +13,8 @@
 | Submission 3 | [Click Here](https://github.com/errhythm/CSE431/tree/main/submission3) |
 | Submission 4 | [Click Here](https://github.com/errhythm/CSE431/tree/main/submission4) |
 
+### Bonus
+
+| **Submission No.** | Link |
+| ----------- | ----------- |
+| Submission 6 | [Click Here](https://github.com/errhythm/CSE431/tree/main/submission6) |
