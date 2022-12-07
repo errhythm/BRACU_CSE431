@@ -3,6 +3,7 @@ Unlisted youtube video:
 Conference submitted paper / paper submission / login Link:
 
 Paper title:
+A Comprehensive Study of Sentiment Analysis Methods on Text Reviews using VADER, RoBERTa, and BERT
 
 Paper presentation (anyone can view without login):
 
