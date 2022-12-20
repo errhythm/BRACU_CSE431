@@ -3,7 +3,7 @@ Unlisted youtube video:
 Conference submitted paper / paper submission / login Link:
 
 Paper title:
-A Comprehensive Study of Sentiment Analysis Methods on Text Reviews using VADER, RoBERTa, and BERT
+Sentiment Analysis of Restaurant Reviews from Bangladeshi Food Delivery Apps
 
 Paper presentation (anyone can view without login):
 
@@ -19,6 +19,5 @@ Group Number:
 3
 
 Group Members:
-20101553 Shaoli Farzana
 20141003 Rajvir Ahmed Shuvo
 22241163 Ehsanur Rahman Rhythm
