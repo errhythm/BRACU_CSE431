@@ -58,7 +58,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 56,2022-07-30T16:02:25Z,The food was so cold that I could barely eat. Maybe it is the rider who took 1 hour to deliver my food. Very bad service. I'm disappointed,Ritoban,1
 57,2022-07-27T16:50:03Z,testy and delicious,Saiful,5
 58,2022-07-26T16:09:41Z,"Bhai please shut down the panthapath branch already!! BFC has always been my favourite, but panthapath branch serves the worst fry, crust is burnt, dry inside, tough to swallow",Dihan,1
-59,2022-07-26T10:45:08Z,"The fried chicken seemed like raw, not cooked properly. And the burger smelled like expired coconut oil. Maybe the sauce on the burger was expired. But the nuggets were not that bad.",A,1
+59,2022-07-26T10:45:08Z,"The fried chicken seemed like raw, not cooked properly. And the burger smelled like expired coconut oil. Maybe the sauce on the burger was expired. But the nuggets were not that bad.",Anonymous,1
 60,2022-07-26T10:17:47Z,I literally received spoiled food and it smelled disgusting like raw dead meat. They don't follow the instructions that we provide and the quantity of the fries were hella less.,Raeesha,1
 61,2022-07-24T18:08:05Z,not so good,Eve,2
 62,2022-07-21T16:18:42Z,Good,Anika,4
@@ -195,7 +195,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 193,2022-05-15T20:35:48Z,good,Saameen,5
 194,2022-05-12T10:08:36Z,Late and cold,Adnan,3
 195,2022-04-29T18:03:32Z,French fry was cold. Delivery time is one hour very bad.,kawsar,1
-196,2022-04-20T22:07:23Z,The food was too much fried. It tasted bitter.,     ,5
+196,2022-04-20T22:07:23Z,The food was too much fried. It tasted bitter.,Anonymous,5
 197,2022-03-28T23:55:15Z,Surly the best burger king i ever tried before,Nidal,5
 198,2022-03-22T10:49:50Z,Super!,Tori,5
 199,2022-02-14T16:15:42Z,Cold,Shibly,1
@@ -450,7 +450,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 448,2022-05-09T01:30:11Z,Loved the seafood pasta. However I think it's a bit too pricey.,Zahin,5
 449,2022-04-12T11:10:03Z,Best pizza after dominos,kazi,5
 450,2022-02-09T09:59:47Z,The dish is great but needed a hint of salt. The sauce seemed too sweet and didn't seem to be in harmony with the spicyness of the meal.,Zahin,5
-451,2022-02-06T18:53:14Z,Deliver wrong meal,A,1
+451,2022-02-06T18:53:14Z,Deliver wrong meal,Anonymous,1
 452,2022-01-28T18:29:36Z,It tasted really good. Cheez never disappointed me. Always on point.,Abu,5
 453,2022-01-03T05:58:43Z,"The pizza was smashed, the toppings were stuck on the box.. it was a disaster",Mohammad,2
 454,2022-01-02T06:06:01Z,The crust was too thin. Please make your pizza crust a little bit thicker so that the toppings don't fall off.,Anonymous,5
@@ -563,7 +563,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 561,2022-07-17T05:52:35Z,"I ordered Qureshi's Bikash and Agriculture last night, but till now no response PSC.",km,1
 562,2022-07-04T13:15:17Z,My product is not given I did not get the money back,Mohammad,1
 563,2022-07-04T09:13:11Z,Failed to deliver after taking order,Md,1
-564,2022-06-29T02:17:53Z,I still don't understand how it was,   ,1
+564,2022-06-29T02:17:53Z,I still don't understand how it was,Anonymous,1
 565,2022-06-21T14:49:33Z,order not complete,Tu,1
 566,2022-06-21T10:42:14Z,I haven't received my order cancellation refund yet,Saiful,1
 567,2022-06-20T09:16:50Z,Muntachir Ahmed,Muntachir,5
@@ -606,10 +606,10 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 604,2022-11-01T18:43:51Z,just wow yummy,Xi,5
 605,2022-11-01T16:29:53Z,This type of restaurant or home kitchen should not be in lakhtaka campaign. Better restaurant/home kitchen is expected.,Robiul,1
 606,2022-11-01T09:58:25Z,it took more than one hour to arrive.,Afreen,1
-607,2022-11-01T07:23:17Z,Very tasty food. The quality of the packaging was also good. Hold on and move on.,        ,5
+607,2022-11-01T07:23:17Z,Very tasty food. The quality of the packaging was also good. Hold on and move on.,Anonymous,5
 608,2022-10-30T14:34:19Z,"Totally disappointed with the rui fish bhuna today. Way too salty and hard badly cooked fish. The last time I ordered the same it was so good, so I ordered again today but totally disappointed while.",Zannatul,1
 609,2022-10-30T08:44:18Z,quantity was less.. food was good,Asif,4
-610,2022-10-29T16:29:49Z,The meal was a lot of fun. Tasted full home cooking. You will receive regular orders. Inshallah,        ,5
+610,2022-10-29T16:29:49Z,The meal was a lot of fun. Tasted full home cooking. You will receive regular orders. Inshallah,Anonymous,5
 611,2022-10-29T15:32:58Z,too much spicy.,Nabila,2
 612,2022-10-24T14:04:46Z,They are doing so fine with quality. loving the food.,Anik,5
 613,2022-10-24T11:45:47Z,"The fish smelled very bad, the dal, eggplant stuffing and spoiled food was very bad, the money was dirty, the taste of every food was bad.",Erin,1
@@ -752,7 +752,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 750,2022-07-21T05:40:20Z,Thank you so much for providing such beautiful home cooked food at a low price. The food was great. I have never had such good food in any restaurant. The chicken roast was the most fun.,Suraiya,5
 751,2022-07-20T17:06:58Z,"The food was very tasty. Rui fish, bharta, bhaji and shutki were ordered. was great Thank you Lizabd Home Kitchen. I will be ordering regularly from now on. Hope to get such delicious and fresh food.",Cynthia,5
 752,2022-07-20T16:36:00Z,"All the dishes were very tasty. Thank you Lizabd Home Kitchen. Pabda Fish, Rui Fish, Kachushak, Tomato Bharta, Karla Bhaji were the orders. wonderful I became your regular customer.",Ananya,5
-753,2022-07-20T16:14:29Z,"You serve very tasty and quality food. My order today was bharta, dal, sabzi and roo fish fry all turned out very well. Thank you very much",        ,5
+753,2022-07-20T16:14:29Z,"You serve very tasty and quality food. My order today was bharta, dal, sabzi and roo fish fry all turned out very well. Thank you very much",Anonymous,5
 754,2022-07-20T09:26:07Z,The horn fish had a bad smell,Shamim,1
 755,2022-07-18T09:28:32Z,"My meal was tasty, fresh and complete!! Requesting to add more items of fish and vegetables in a moderate price.",Eliza,4
 756,2022-07-16T08:25:25Z,Should retain the taste as it was in earlier days.,Rokun,3
@@ -905,7 +905,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 903,2021-11-29T15:38:02Z,Very bad.,Mahim,1
 904,2021-11-28T15:15:34Z,You guys should give for peppers,Md. Easin,1
 905,2022-11-28T21:10:37Z,"They bring bad, they want dal, they give spoiled fry",Rakib,1
-906,2022-11-28T21:09:51Z,Bed food too much.,      ,1
+906,2022-11-28T21:09:51Z,Bed food too much.,Anonymous,1
 907,2022-11-28T21:07:21Z,Chachi dal diche bhaji and wasted chill,Rakib,1
 908,2022-11-25T20:12:17Z,Very bad food. The food was rotten. Just a waste of money,Gazi,1
 909,2022-11-24T20:13:47Z,Brother I said to pay one Chinese paisa after so many requests. Gave that leg money. The best crack of bread on it. No masala munais. Shall I eat with water?,James,1
@@ -938,7 +938,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 936,2022-10-13T11:51:13Z,Good,Rahul,5
 937,2022-10-12T16:35:34Z,1 item missing,Tanverul,1
 938,2022-10-12T11:02:10Z,Good,Rahul,5
-939,2022-10-12T10:33:23Z,"Very bad food. If I had known before, I would have ordered the food and not all the junk",   ,1
+939,2022-10-12T10:33:23Z,"Very bad food. If I had known before, I would have ordered the food and not all the junk",Anonymous,1
 940,2022-10-11T09:52:26Z,Good,Rahul,5
 941,2022-10-09T23:11:41Z,they didn't serve egg & salad .. while their chicken khichdi is served with egg and salad in their items,Tashrif,1
 942,2022-10-08T13:15:27Z,Good,Rahul,5
@@ -975,7 +975,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 973,2022-09-08T06:44:59Z,"very bed,",Uzzal,1
 974,2022-09-08T06:21:52Z,I asked for a chicken khichuri they gave me egg khichuri but took the price of chicken khichuri and the egg was also not so good try to improve it,Dipayon,1
 975,2022-09-06T13:35:32Z,Shutki vorta puishak korola vaji was awesome. Rice price was too high according to quantity.,Rakib,5
-976,2022-09-04T18:30:24Z,not good,        ,1
+976,2022-09-04T18:30:24Z,not good,Anonymous,1
 977,2022-09-04T12:01:07Z,"have never eaten food like this. Two chickens were given, one of which had goose feathers. And the black was roasted. How about Kala Bhuna? The restaurant owner did not see or eat during his father's birth. Just roast the meat. I want to abuse",Mahadi,1
 978,2022-09-04T07:21:09Z,I ordered tandoori roti and beef kala bhuna. but I was delivered normal roti and beef curry,Sajid,1
 979,2022-09-02T08:44:28Z,worst food,Muzahidul,1
@@ -1210,7 +1210,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 1208,2022-05-02T19:46:54Z,"the meal was disgusting as it was 2 and a half hours late. thanks to foodpanda's AMAZING customer service, now we can get our orders after only waiting for 2.30 hours in the middle of the night at 12.",Humaira,1
 1209,2022-04-24T22:54:47Z,Excellent,Shajid,5
 1210,2022-04-20T17:06:15Z,Burger was horrible! Ordered thin crust but gave me large crust.,Tahseen,1
-1211,2022-03-31T21:22:16Z,very fun,       ,5
+1211,2022-03-31T21:22:16Z,very fun,Anonymous,5
 1212,2022-03-28T19:46:06Z,the food was good.,Shoib,1
 1213,2022-01-31T18:17:51Z,"Great Pizza, it was warm and tasty. The rider did a great job bringing it fast. Overall good experience.",rusho,5
 1214,2022-01-29T18:13:35Z,"It was good tastewise. Crust needs to be better, feels like naan bread",Shams,5
@@ -1222,7 +1222,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 1220,2021-12-26T16:05:57Z,Food was cold. Vegetable was almost digested! Once pizzaburg was best now they are worst. Not going to order there anymore,Aumi,2
 1221,2021-12-22T11:55:43Z,Good.,AJ,5
 1222,2021-12-18T12:36:24Z,Very good,Anonymous,5
-1223,2021-12-15T08:47:11Z,Extra topping and cheese was not added and instructed to make 10 slices which they didn't listen Also pizza was cold, fr,2
+1223,2021-12-15T08:47:11Z,Extra topping and cheese was not added and instructed to make 10 slices which they didn't listen Also pizza was cold,Anonymous,2
 1224,2021-12-13T08:28:49Z,Not satisfied,Anonymous,1
 1225,2021-12-10T15:11:48Z,"I was very disappointed. I ordered a thick crust pizza, but got thin!!! They did not even provide the chili flakes and oregano. what the hell!! Did not expect that from them.",Tonima,4
 1226,2021-12-10T14:06:56Z,Good,Anonymous,5
@@ -1295,7 +1295,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 1293,2022-08-31T03:28:10Z,"I ordered one Tehari & one Khichuri but they served both Tehari. According to the price, the quantity was insufficient. the taste was good.",Shahjalal,3
 1294,2022-08-30T16:38:21Z,Good,Afroza,4
 1295,2022-08-27T08:13:26Z,"taste ok, packaging horrible",Shah,1
-1296,2022-08-24T10:59:41Z,The food was delicious!,A,5
+1296,2022-08-24T10:59:41Z,The food was delicious!,Anonymous,5
 1297,2022-08-22T04:05:22Z,It was tasty & had sufficient meat,Rashedul,4
 1298,2022-08-20T14:15:05Z,Best. Perfect. Best of luck!,Lutfunnaher,5
 1299,2022-08-14T10:55:15Z,"Did not pray, smell of crude oil",Rokib,1
@@ -1450,7 +1450,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 1448,2022-07-11T18:53:22Z,"It was not good. the beef shawarma had a bad odor, and taste. waste of my money",Sarah,1
 1449,2022-07-11T13:17:25Z,Good,Sumon,5
 1450,2022-07-06T13:45:07Z,worst kind of service. smelly salad poor portion size naan was raw,Hafsa,1
-1451,2022-06-30T14:09:34Z,it's high time you guys to improve your bread quality.,        ,3
+1451,2022-06-30T14:09:34Z,it's high time you guys to improve your bread quality.,Anonymous,3
 1452,2022-06-29T21:56:43Z,Slightly undercooked chicken grill.,Asif,3
 1453,2022-06-28T16:23:17Z,The food was unhygienic. I got stomach ache after eating it,Abid,1
 1454,2022-06-26T23:23:24Z,shawarma was bad smell,MD,1
@@ -1672,7 +1672,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 1670,2020-10-04T16:02:34.657Z,good,Zahid,4
 1671,2020-09-26T15:51:40.228Z,"Burger patty had bones, not mashed properly, almost broke my teeth",Rashad,1
 1672,2020-08-05T12:48:06.474Z,Delivery took 1 hour from Gulshan to Gulshan. What kind of service are you providing?,Saifur Rahman Bhuiyan,1
-1673,2022-10-23T14:01:05.847Z,packaging was below average. food was average.,                       ,3
+1673,2022-10-23T14:01:05.847Z,packaging was below average. food was average.,Anonymous,3
 1674,2022-08-21T05:55:21.732Z,Poor meat quantity and quality even in the Mutton Tehari (Premium & Egg). This seems like regular mutton tehari with the addition of a boiled egg. Unacceptable compared to the high price! Taste has also deteriorated a lot than before.,Anonymous,3
 1675,2022-07-30T17:43:06.700Z,very bad. I ordered mutton biryani. they have beef tehari.Not expecting this kind of service.....,Anonymous,2
 1676,2022-06-28T12:30:38.539Z,good food,Anonymous,5
@@ -3036,7 +3036,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 3034,2021-08-24T06:34:21.606Z,wanted spicy but they gave naga,Anonymous,1
 3035,2021-08-13T13:09:28.604Z,with 2 pieces of naga drum 1 sauce? How cheap are you?,Md Sharafat Hossain,1
 3036,2021-08-06T12:35:41.339Z,Rider marked delivered when I don't get that food.,Anonymous,1
-3037,2021-08-05T17:01:15.304Z,bun is worst as of it was rotten,...,3
+3037,2021-08-05T17:01:15.304Z,bun is worst as of it was rotten,Anonymous,3
 3038,2021-08-02T06:14:11.264Z,Foil paper tastes hella weird,Anonymous,4
 3039,2021-07-30T08:36:44.399Z,the naga drums were not naga at all. besides bad smell was coming from the drum chicken,Anonymous,2
 3040,2021-07-29T15:10:01.812Z,absolutely perfect. will certainly order again. keep going,Anonymous,5
@@ -3306,11 +3306,11 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 3304,2022-09-20T07:38:07.228Z,I had mentioned that please don't add chicken but still I received sandwich with meat.,Mayur,2
 3305,2022-09-18T15:30:12.059Z,"Disappointed again. Ordered 2 orange juice, received 2 Oreo shakes.",Raisul Alam,2
 3306,2022-09-04T09:19:39.203Z,Cool smoothie packed with hot food which is wrapped with paper box. should give 2 PC tissue into packet,Anonymous,1
-3307,2022-08-21T13:38:16.736Z,"Good, thanks.",    ,5
+3307,2022-08-21T13:38:16.736Z,"Good, thanks.",Anonymous,5
 3308,2022-08-08T14:22:52.157Z,it was kinda watery too much,Anonymous,5
 3309,2022-08-05T13:29:41.177Z,they gave me a thai fried chicken instead of a taco,Nahid Mousumi,1
-3310,2022-07-06T07:03:39.048Z,"Good, thanks",    ,5
-3311,2022-06-29T14:14:37.825Z,"Good, thanks",    ,5
+3310,2022-07-06T07:03:39.048Z,"Good, thanks",Anonymous,5
+3311,2022-06-29T14:14:37.825Z,"Good, thanks",Anonymous,5
 3312,2022-06-27T13:57:55.149Z,"Your delivery man didn't receive my call. Also he denied to come to my address and deliver the food to my door. Also he said some unwanted words ""                  """,ASM Shakil Ahamed,5
 3313,2022-06-08T12:13:00.495Z,very good,Anonymous,5
 3314,2022-06-08T11:43:09.564Z,Match the pictures with the food. And the sub sandwich bun was too burnt.,Anonymous,3
@@ -4788,7 +4788,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 4786,2021-08-20T13:36:24.515Z,"Supper delivery, god man",Clintontopu,5
 4787,2021-08-20T09:06:57.927Z,"one of my fav burger joint in dhanmondi. just one observation, they should use the amount of sauce/mayo a lil less.",M Iftekhar Alam Katebi,5
 4788,2021-08-19T16:23:01.543Z,Good but small size,Anonymous,5
-4789,2021-08-18T13:53:47.802Z,Meat box almost had 90% french fries with cheese only. The fried chicken was totally out of taste. The burger was a garbage. 1* is too much for them. Every food tasted shit.,            ,1
+4789,2021-08-18T13:53:47.802Z,Meat box almost had 90% french fries with cheese only. The fried chicken was totally out of taste. The burger was a garbage. 1* is too much for them. Every food tasted shit.,Anonymous,1
 4790,2021-08-18T13:23:00.193Z,lack of lettuce & spices,Anonymous,2
 4791,2021-08-16T14:27:18.645Z,food was good and the delivery man's behavior also quite good,Anonymous,5
 4792,2021-08-11T15:09:06.002Z,behavior of delivery man too good,Anonymous,5
@@ -5058,7 +5058,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 5056,2021-12-21T13:29:59.490Z,Ordered Chicken Mushroom pizza but didn't find mushroom in that burger. Worst,Shubhojit Ghosh,1
 5057,2021-12-21T13:26:07.374Z,Worst order,Anonymous,1
 5058,2021-12-20T16:21:16.823Z,The delivery was way too late hence the pizza got cold. Took 2hrs to deliver,Taskeen,1
-5059,2021-12-20T14:48:27.537Z,egulo manush khay naki kukure kukur o egulo khabe na amar hate khomota thakle ami ei restaurant re police er hate ditam ek e to thanda bashi pocha khabar puro takatai britha pura falay dite hoise HungryNaki theke onek food kheyesi emon ta jiboneo khai ni offer name lok thokano ekon pesha hoye gese kisu restaurent der HungryNaki der bolbo ei restaurent der birudde action nite manush der osusto korar paytara emon business korar theke bhikka kora bhalo galagali bhalo na tai dilam na,         ,1
+5059,2021-12-20T14:48:27.537Z,egulo manush khay naki kukure kukur o egulo khabe na amar hate khomota thakle ami ei restaurant re police er hate ditam ek e to thanda bashi pocha khabar puro takatai britha pura falay dite hoise HungryNaki theke onek food kheyesi emon ta jiboneo khai ni offer name lok thokano ekon pesha hoye gese kisu restaurent der HungryNaki der bolbo ei restaurent der birudde action nite manush der osusto korar paytara emon business korar theke bhikka kora bhalo galagali bhalo na tai dilam na,Anonymous,1
 5060,2021-12-20T14:32:00.596Z,very bad food. pizza has no topping. very late to process food. no taste.,Sartaj Mahmud,1
 5061,2021-12-20T14:25:17.098Z,Pasta has not tasted,Anonymous,1
 5062,2021-12-19T18:14:10.820Z,Useless!!!,Anonymous,1
@@ -5819,7 +5819,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 5817,2022-04-22T17:03:11.107Z,"rotten suslick, rotten rushmalai",Anonymous,1
 5818,2022-04-15T12:18:19.940Z,"I ordered 1 kg, but got 750 gm doi, one third of which fell inside the box out of the pot due to poor packaging. Very disappointed.",Tahsin Azad,1
 5819,2022-04-10T08:36:19.832Z,mithai doi always has a label stating sweet or sour.. Mine didn't have any label and the doi looked old.,Anonymous,1
-5820,2022-04-03T10:01:18.779Z,Should accept vouchers,.,5
+5820,2022-04-03T10:01:18.779Z,Should accept vouchers,Anonymous,5
 5821,2022-03-12T06:34:27.033Z,Fall silos.,sarwar ujan,4
 5822,2022-03-08T08:05:47.811Z,old expiry,shame,3
 5823,2022-03-06T13:16:46.652Z,Chomchom smelled like pesticides and not even fresh. Executive especially the rider was rude and lied to me. Will never buy from mithai next. sweets quality is so poor!,Anonymous,2
@@ -6124,7 +6124,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 6122,2022-07-05T07:55:25.945Z,perfect,Marufa Khanam,5
 6123,2022-07-01T10:10:46.566Z,"What will happen if you only give more rice? 2 poss meat design boots not a bit of meat! The whole loss! Even if you play somewhere local, there is meat bigger than this. That is very disappointing",Anonymous,1
 6124,2022-07-01T08:02:07.037Z,I ordered two badam sharbats but they gave me one....(Not satisfied),Anonymous,3
-6125,2022-06-26T11:46:51.887Z,"Bad piece of meat, only bone",                  ,1
+6125,2022-06-26T11:46:51.887Z,"Bad piece of meat, only bone",Anonymous,1
 6126,2022-06-23T16:46:05.070Z,Vote on the boat brand,Anonymous,5
 6127,2022-06-18T12:17:18.807Z,cui was missing in the cuijhal,Anonymous,5
 6128,2022-06-18T08:27:20.777Z,good food,Anonymous,5
@@ -6370,7 +6370,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 6368,2021-04-18T10:58:07.497Z,missing items,Abu Bakr,2
 6369,2021-01-15T04:30:41.694Z,Salad Missing,Anonymous,2
 6370,2021-01-02T06:18:56.824Z,I ordered plain pulao and chicken roast. but they served me kacchi biryani and i found small pieces of stone in biriyani.,Anonymous,1
-6371,2020-12-29T09:34:07.722Z,"the portion size is not satisfactory... when we dined in the restaurant, the quantity of rice was more...", ,4
+6371,2020-12-29T09:34:07.722Z,"the portion size is not satisfactory... when we dined in the restaurant, the quantity of rice was more...",Anonymous,4
 6372,2020-12-25T08:43:26.854Z,"4 Jorda item was missing, gave 4 Tikkia which is out of order",Md. Abedur Rahman,4
 6373,2020-12-01T14:11:39.170Z,The restaurant serves bad pieces of meat when ordered online,Yasin Islam,3
 6374,2020-11-29T07:58:14.672Z,Delivery time is too long,Anonymous,3
@@ -7610,8 +7610,8 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 7608,2022-08-26T11:38:21.915Z,"Ever burst of bursts. I have never tasted this kind of rotten khichuri. How to parcel more, hard meat like this!",Anonymous,1
 7609,2022-07-24T08:13:54.615Z,"food was covered in mud, the rider hide the wet packs. even inside my pocket, there was dirt.",Ahnaf Arabi,1
 7610,2022-07-19T08:12:45.498Z,The delivery man is very rude. Calling me and threatening me,Anonymous,5
-7611,2022-07-04T08:37:25.326Z,"Good, thanks",    ,5
-7612,2022-06-27T11:31:26.305Z,good no issues. thanks,    ,5
+7611,2022-07-04T08:37:25.326Z,"Good, thanks",Anonymous,5
+7612,2022-06-27T11:31:26.305Z,good no issues. thanks,Anonymous,5
 7613,2022-06-14T13:35:18.032Z,Cashew nut salad is very bad. Water inside the food. The amount of chicken is also very less. He keeps the packet filled with cucumber and carrot.,Anonymous,1
 7614,2022-04-19T15:34:57.027Z,chicken bhuna khichuri is awesome...chicken fried rice is also very good..,Anonymous,1
 7615,2022-04-16T06:29:34.656Z,improve delivery boy attitude,Anonymous,3
@@ -9142,7 +9142,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 9140,2022-08-26T09:52:00.972Z,the salat was missing,Mahtab Mahmud,5
 9141,2022-07-19T05:50:31.267Z,"Brother, if you need meat, give one pitch, but don't give such small pieces of meat.",Anonymous,1
 9142,2022-07-07T15:38:24.328Z,Rider is very nice. He is very smart guy. Thanks for his service,Anonymous,5
-9143,2022-07-06T13:59:21.719Z,So bad taste,           ,1
+9143,2022-07-06T13:59:21.719Z,So bad taste,Anonymous,1
 9144,2022-07-01T16:55:54.133Z,"Amar khaoa life er sobcheye baje Khabar.manus ki kore sultans dine er Khabar ato like kore ta Amar mathay ase na.ami oder kacchi platter order korechilam,jekhane kacchi,jali kabab, chicken roast,beef rejala,Jorda r borhani chilo.r chilo chutney.trust me,chutney Chara Baki sob chilo baje. r Jorda chilo hoyto 7/8 din purano. jeta kheye sathe sathe loose motion Hoye gese.",Mohsen Liza,1
 9145,2022-06-25T13:05:28.908Z,satisfied,Anonymous,5
 9146,2022-06-16T12:01:41.419Z,"The food was not good, it was during the Sultan's day",Ikram Hossen,5
@@ -9579,7 +9579,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 9577,2021-06-06T07:20:10.458Z,The amount of meat was very little. There was not much broth with the meat,Mizanur Rahman,3
 9578,2021-06-04T10:46:31.332Z,everything is good except for taste which is bit mild.. also quantity is less according to price.,Candy Haque,4
 9579,2021-05-30T06:36:45.093Z,Food taste is so worst.,Md. Ashikur Rahman,1
-9580,2021-05-27T08:00:57.350Z,5 pieces of bones are kept without a piece of meat. mind it,             ,1
+9580,2021-05-27T08:00:57.350Z,5 pieces of bones are kept without a piece of meat. mind it,Anonymous,1
 9581,2021-05-16T08:24:39.512Z,The food was oily. The rider was very rude.,Jesus,3
 9582,2021-05-07T15:19:07.647Z,1 kg beef seems to include broth?,Ashfaq,4
 9583,2021-05-04T10:38:35.824Z,Good news,Anonymous,1
@@ -11352,7 +11352,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 11350,2022-03-13T11:24:35.473Z,"Since the payment was paid online and the delivery man did not have to collect money, he did not come upstairs and called me downstairs to collect the food.",Sohel,5
 11351,2022-03-05T09:47:27.403Z,Amount has been decreased a lot (Large portion),Towsif Al Hafiz,4
 11352,2022-03-01T13:16:21.542Z,A bit salty. Some more sauce would be good.,Towsif Al Hafiz,4
-11353,2022-02-18T15:21:40.092Z,Taste good. But the package was bad.,                ,2
+11353,2022-02-18T15:21:40.092Z,Taste good. But the package was bad.,Anonymous,2
 11354,2022-02-18T11:00:53.077Z,food was too oily and greasy,Anonymous,3
 11355,2022-02-07T14:52:13.895Z,very very disgusting. Unexpected quality and quantity from holy fries. I have ordered many times from here. But the amount is half of what it used to be and the price is the same. Last time I am ordering from this place.,Asif Shatil,1
 11356,2022-02-03T15:28:10.589Z,the delivery man was so good,Sayed Sohanul Islam,4
@@ -13051,7 +13051,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 13049,2021-10-24T07:07:17.139Z,supper,Anonymous,5
 13050,2021-10-24T02:52:13.189Z,Delivery time is horrible,Md. Tamzidur Rahman Tonmoy,5
 13051,2021-10-23T13:06:52.979Z,Meat was earlier. Smelled out. The test is fairly good.,Anonymous,3
-13052,2021-10-22T09:31:22.611Z,The eggs were rotten and the food stale. Two hours late. Cheapest three conditions. Abominable!,.,1
+13052,2021-10-22T09:31:22.611Z,The eggs were rotten and the food stale. Two hours late. Cheapest three conditions. Abominable!,Anonymous,1
 13053,2021-10-21T05:34:02.608Z,Very good quality. the box was full of rice. great job,Anonymous,5
 13054,2021-10-19T13:53:59.317Z,you always fail to deliver on time. that sucks. you must improve it or people will not order from HN.,Anonymous,4
 13055,2021-10-19T11:54:53.024Z,Was too spicy which I never got before.,Anonymous,4
@@ -13062,7 +13062,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 13060,2021-10-16T16:35:00.548Z,the portion was too small in terms of price,Hridi,1
 13061,2021-10-13T17:42:54.114Z,The rider was not in time,Anonymous,3
 13062,2021-10-13T11:30:38.097Z,terrible taste...,Anonymous,1
-13063,2021-10-13T09:21:52.540Z,1.5 hour late very salty chicken curry,.,2
+13063,2021-10-13T09:21:52.540Z,1.5 hour late very salty chicken curry,Anonymous,2
 13064,2021-10-13T08:54:33.272Z,It had no meat!,Anonymous,3
 13065,2021-10-12T14:15:45.887Z,Satisfactory.,Anonymous,5
 13066,2021-10-12T09:41:02.189Z,apps interface,Shoab,5
@@ -13088,7 +13088,7 @@ Unnamed: 0,createdAt,text,reviewerName,ratingvalue
 13086,2021-09-01T07:02:25.286Z,meat was less than bone.,Anonymous,1
 13087,2021-08-26T07:29:12.709Z,Batter communicative rider needed.,Dr. Arif,4
 13088,2021-08-19T08:51:22.940Z,"Total junk food, resulting in DC, not worth eating.",Arif Hassan,1
-13089,2021-08-14T09:17:10.088Z,Mutton was not fresh or well cooked,.,2
+13089,2021-08-14T09:17:10.088Z,Mutton was not fresh or well cooked,Anonymous,2
 13090,2021-08-12T09:03:51.347Z,good,Anonymous,4
 13091,2021-08-10T09:45:29.221Z,They send me the rooted,Anonymous,1
 13092,2021-08-09T09:14:09.974Z,His behavior was too much rude and unprofessional,Anonymous,1
