@@ -7,6 +7,7 @@ Paper title:
 Sentiment Analysis of Restaurant Reviews from Bangladeshi Food Delivery Apps
 
 Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1p4_-XIiVA0sx8tbf8TvwLGbe-JVpiOg6Y6GMgfCYZAg/edit?usp=sharing
 
 Paper submission date (to workshop/conference): 29/12/2022
 
